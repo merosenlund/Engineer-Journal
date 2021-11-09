@@ -12,7 +12,7 @@
 
 
 
-# Core Concepts from Spring
+# Core Concepts from Sprint
 
 
 
